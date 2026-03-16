@@ -1,0 +1,7 @@
+A los 4 años, fué cuando le pedí mi primer ordenador a mi padre, no lo conseguí hasta los 8, un commodore64 de ultimísima generación!
+Siempre me ha gustado la informática porque básicamente hoy en día todo funciona con ordenadores… y alguien tiene que ser el que los arregle cuando dejan de funcionar.
+Me interesa especialmente entender cómo funcionan los equipos por dentro, desde el hardware hasta los sistemas operativos y las redes.
+Además, montar y configurar ordenadores tiene algo satisfactorio: empiezas con un montón de piezas y al final tienes una máquina funcionando (si todo va bien y no sobra ningún tornillo).
+También me llama la atención aprender a solucionar problemas técnicos, porque en informática siempre aparece algo que no funciona… y descubrir por qué es casi como resolver un pequeño misterio.
+No tenía muy claro por donde tirar, pero el tema "redes" me llama muchísimo la atención, así que seeguramente me tiraré por la rama de ASIR.
+La programación se lo dejo a los "cocos". A mi que me lo den hecho que ya me encargo yo de subirlo al servidor ;)
