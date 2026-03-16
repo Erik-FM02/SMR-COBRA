@@ -53,7 +53,7 @@ Cada uno de nosotros debe crear una carpeta con su nombre y añadir dentro un ar
 
 ## 👨‍💻 Participantes
 
-Los alumnos participantes deben añadir su nombre en el archivo **alumno.txt**.
+Debemos añadir nuestros nombres en el archivo **alumno.txt**.
 
 ---
 
