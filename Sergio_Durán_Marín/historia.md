@@ -1,0 +1,1 @@
+Me llamo Sergio Durán, y me gusta la informática porque he pasado mucho tiempo con ordenadores y cuanto más me adentro en este mundo más me gusta, estoy practicamente iniciando y tengo ganas de seguir.
